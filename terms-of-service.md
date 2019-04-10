@@ -278,7 +278,7 @@ The PublishWide Inc. Agent for notice of claims of copyright or other intellectu
 Mailing Address:
 PublishWide Inc.
 Attn: Copyright Agent
-1 Towne Center #518
+597 Anderson Ave #4
 Cliffside Park, New Jersey 07010
 Telephone: (732) 800-7694
 Email: contact@publishwide.com
@@ -315,7 +315,9 @@ You acknowledge, understand and agree that regardless of any statute or law to t
 Please report any and all violations of this TOS toPublishWide Inc. as follows:
 Mailing Address:
 PublishWide Inc.
-1 Towne Center #518
+597 Anderson Ave #4
 Cliffside Park, New Jersey 07010
 Telephone: (732) 800-7694
 Email: contact@publishwide.com
+
+Last Edited on 2019-04-10
