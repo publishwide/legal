@@ -12,7 +12,7 @@ We collect information from you when you register on our site, place an order, s
 
 ## How do we use your information?
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, sync your data, connect a module, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
 *   To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 *   To improve our website in order to better serve you.
@@ -21,6 +21,7 @@ We may use the information we collect from you when you register, make a purchas
 *   To quickly process your transactions.
 *   To ask for ratings and reviews of services or products
 *   To follow up with them after correspondence (live chat, email or phone inquiries)
+*   To anonymize & analyze aggregate data with the purposes of enhancing Publishwide product offerings and share industry benchmarks & trends.
 
 ## How do we protect your information?
 
@@ -163,9 +164,9 @@ If there are any questions regarding this privacy policy, you may contact us usi
 
 [](https://publishwide.com)
 
-1 Towne Center #518  
+597 Anderson Ave #4  
 Cliffside Park, NJ 07010  
 United States  
 [contact@publishwide.com](mailto:contact@publishwide.com)
 
-Last Edited on 2018-03-06
+Last Edited on 2019-04-10
