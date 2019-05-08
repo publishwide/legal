@@ -45,6 +45,54 @@ MEMBER ACCOUNT, USERNAME, PASSWORD AND SECURITY
 
 When you set up an account, you are the sole authorized user of your account. You shall be responsible for maintaining the secrecy and confidentiality of your password and for all activities that transpire on or within your account. It is your responsibility for any act or omission of any user(s) that access your account information that, if undertaken by you, would be deemed a violation of the TOS. It shall be your responsibility to notify PublishWide Inc. immediately if you notice any unauthorized access or use of your account or password or any other breach of security. PublishWide Inc. shall not be held liable for any loss and/or damage arising from any failure to comply with this term and/or condition of the TOS.
 
+## DATA POLICIES
+
+Publishwide collects data from 3rd party sources that you connect to your account. By connecting those accounts, you agree to their respective data policies outlined below:
+
+### Amazon KDP Data Policy
+Publishwide compiles data from your Amazon KDP sales reports in order to present the data in a more useful manner. We keep a copy of KDP sales reports on our servers in order to provide you with quick and reliable reports.
+
+We import: previous month reports & daily reports for last 90 days.
+
+We store: ASIN & ISBN, book title, book format, author name, royalties, unit sales, kenpc pages read, giveaways, orders, KOLL borrows, sales price, refunds, marketplaces & dates associated with sales data.
+
+We use: all stored data in order compile your Amazon KDP sales data into a more useful format that allows authors to manipulate their data to get more insights that authors are looking for. We also look at your monthly sales data in order to determine when your account qualifies for a paid plan.
+
+We DO NOT share this information with any third parties.
+
+We DO NOT store any passwords or other Amazon KDP user information.
+
+The data policy is subject to change as we continue to improve Publishwide. You will be notified of any updates to the data policy.
+
+### Facebook Ads Data Policy
+Publishwide compiles data from your Facebook ad account in order to associate it with other Publishwide book sales data. We keep a copy of Facebook ads data reports on our servers in order to provide you with quick and reliable reports.
+ 
+We import: a list of your facebook ad campaigns, and ads. From those, you choose which campaigns and ads are related to your published books & want to import ad campaign data for.
+ 
+We store: campaign id, campaign name, campaign objective, campaign buying type, campaign spend limit, campaign status, campaign spend information, and ad results (ad spend, ad clicks, ad impresions, ad cpc, ad relevance score, ad click through rate)
+ 
+We use: all stored data in order to associate your Facebook ad account data with your Amazon KDP data to give you a better understanding of the revenues & expenses of your publishing activities. 
+ 
+We DO NOT share this information with any third parties.
+We DO NOT store any passwords or other Facebook user information.
+ 
+The data policy is subject to change as we continue to improve Publishwide. You will be notified of any updates to the data policy.
+ 
+### Amazon Advertising Data Policy
+Publishwide compiles data from your Amazon Advertising (hereafter “AMS”) account in order to associate it with other Publishwide book sales data. We keep a copy of AMS ads data reports on our servers in order to provide you with quick and reliable reports.
+ 
+We import: a list of your AMS campaigns. From those, you choose which campaigns are connected to which book.
+ 
+We store: attributed purchases cost, average cost of sales (ACOS) of campaign, average cost per click (CPC) of campaign, campaign budget, campaign budget type, campaign ID, campaign Type, campaign clicks, campaign click-through-ratio (CTR), campaign start date, campaign end date, campaign impressions, campaign name, and campaign spend
+ 
+We use: all stored data in order to associate your AMS account data with your Publishwide book sales data to give you a better understanding of the revenues & expenses of your publishing activities.
+ 
+We DO NOT share this information with any third parties.
+We DO NOT store any passwords or other Amazon Advertising user information.
+ 
+The data policy is subject to change as we continue to improve Publishwide. You will be notified of any updates to the data policy.
+
+
 ## CONDUCT
 
 As a user or member of the Site, you herein acknowledge, understand and agree that all information, text, software, data, photographs, music, video, messages, tags or any other content, whether it is publicly or privately posted and/or transmitted, is the expressed sole responsibility of the individual from whom the content originated. In short, this means that you are solely responsible for any and all content posted, uploaded, emailed, transmitted or otherwise made available by way of the PublishWide Services, and as such, we do not guarantee the accuracy, integrity or quality of such content. It is expressly understood that by use of our Services, you may be exposed to content including, but not limited to, any errors or omissions in any content posted, and/or any loss or damage of any kind incurred as a result of the use of any content posted, emailed, transmitted or otherwise made available by PublishWide.
@@ -320,4 +368,4 @@ Cliffside Park, New Jersey 07010
 Telephone: (732) 800-7694
 Email: contact@publishwide.com
 
-Last Edited on 2019-04-10
+Last Edited on 2019-05-07
