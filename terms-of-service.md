@@ -52,26 +52,40 @@ Publishwide collects data from 3rd party sources that you connect to your accoun
 ### Amazon KDP Data Policy
 Publishwide compiles data from your Amazon KDP sales reports in order to present the data in a more useful manner. We keep a copy of KDP sales reports on our servers in order to provide you with quick and reliable reports.
 
-We import: previous month reports & daily reports for last 90 days.
+**We import:** previous month reports & daily reports for last 90 days.
 
-We store: ASIN & ISBN, book title, book format, author name, royalties, unit sales, kenpc pages read, giveaways, orders, KOLL borrows, sales price, refunds, marketplaces & dates associated with sales data.
+**We store:** ASIN & ISBN, book title, book format, author name, royalties, unit sales, kenpc pages read, giveaways, orders, KOLL borrows, sales price, refunds, marketplaces & dates associated with sales data.
 
-We use: all stored data in order compile your Amazon KDP sales data into a more useful format that allows authors to manipulate their data to get more insights that authors are looking for. We also look at your monthly sales data in order to determine when your account qualifies for a paid plan.
+**We use:** all stored data in order compile your Amazon KDP sales data into a more useful format that allows authors to manipulate their data to get more insights that authors are looking for. We also look at your monthly sales data in order to determine when your account qualifies for a paid plan.
 
 We DO NOT share this information with any third parties.
-
 We DO NOT store any passwords or other Amazon KDP user information.
+
+The data policy is subject to change as we continue to improve Publishwide. You will be notified of any updates to the data policy.
+
+### Barnes & Noble Data Policy
+
+Publishwide compiles data from your Barnes & Noble Press sales reports in order to present the data in a more useful manner. We keep a copy of transformed B&N sales reports on our servers in order to provide you with quick and reliable reports.
+
+**We import:** previous daily sales data for entire account history & recent sales reports for last 48 hours.
+
+**We store:** customer ID, EAN, ISBN, book title, book format, author name, royalties, unit sales, orders, sales price, refunds, publisher, marketplaces & dates associated with sales data.
+
+**We use:** all stored data in order compile your Barnes & Noble sales data into a more useful format that allows authors to manipulate their data to get more insights that authors are looking for. We also use your anonymized aggregate data (never personally identifiable) to improve Publishwide services.
+
+We DO NOT share this information with any third parties.
+We DO NOT store any passwords or other Barnes & Noble user information on our servers.
 
 The data policy is subject to change as we continue to improve Publishwide. You will be notified of any updates to the data policy.
 
 ### Facebook Ads Data Policy
 Publishwide compiles data from your Facebook ad account in order to associate it with other Publishwide book sales data. We keep a copy of Facebook ads data reports on our servers in order to provide you with quick and reliable reports.
  
-We import: a list of your facebook ad campaigns, and ads. From those, you choose which campaigns and ads are related to your published books & want to import ad campaign data for.
+**We import:** a list of your facebook ad campaigns, and ads. From those, you choose which campaigns and ads are related to your published books & want to import ad campaign data for.
  
-We store: campaign id, campaign name, campaign objective, campaign buying type, campaign spend limit, campaign status, campaign spend information, and ad results (ad spend, ad clicks, ad impresions, ad cpc, ad relevance score, ad click through rate)
+**We store:** campaign id, campaign name, campaign objective, campaign buying type, campaign spend limit, campaign status, campaign spend information, and ad results (ad spend, ad clicks, ad impresions, ad cpc, ad relevance score, ad click through rate)
  
-We use: all stored data in order to associate your Facebook ad account data with your Amazon KDP data to give you a better understanding of the revenues & expenses of your publishing activities. 
+**We use:** all stored data in order to associate your Facebook ad account data with your Amazon KDP data to give you a better understanding of the revenues & expenses of your publishing activities. 
  
 We DO NOT share this information with any third parties.
 We DO NOT store any passwords or other Facebook user information.
@@ -81,11 +95,11 @@ The data policy is subject to change as we continue to improve Publishwide. You 
 ### Amazon Advertising Data Policy
 Publishwide compiles data from your Amazon Advertising (hereafter “AMS”) account in order to associate it with other Publishwide book sales data. We keep a copy of AMS ads data reports on our servers in order to provide you with quick and reliable reports.
  
-We import: a list of your AMS campaigns. From those, you choose which campaigns are connected to which book.
+**We import:** a list of your AMS campaigns. From those, you choose which campaigns are connected to which book.
  
-We store: attributed purchases cost, average cost of sales (ACOS) of campaign, average cost per click (CPC) of campaign, campaign budget, campaign budget type, campaign ID, campaign Type, campaign clicks, campaign click-through-ratio (CTR), campaign start date, campaign end date, campaign impressions, campaign name, and campaign spend
+**We store:** attributed purchases cost, average cost of sales (ACOS) of campaign, average cost per click (CPC) of campaign, campaign budget, campaign budget type, campaign ID, campaign Type, campaign clicks, campaign click-through-ratio (CTR), campaign start date, campaign end date, campaign impressions, campaign name, and campaign spend
  
-We use: all stored data in order to associate your AMS account data with your Publishwide book sales data to give you a better understanding of the revenues & expenses of your publishing activities.
+**We use:** all stored data in order to associate your AMS account data with your Publishwide book sales data to give you a better understanding of the revenues & expenses of your publishing activities.
  
 We DO NOT share this information with any third parties.
 We DO NOT store any passwords or other Amazon Advertising user information.
