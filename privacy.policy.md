@@ -136,6 +136,8 @@ We will notify you via email
 
 We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
+Per Amazon Advertising API terms of service, if you have connected your Amazon data to Publishwide, in case of data breach, Amazon will also be notified within 24 hours
+
 ## CAN SPAM Act
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
